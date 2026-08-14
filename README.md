@@ -1,10 +1,9 @@
-# Prédiction du Churn - Analyse Machine Learning
+# Prédiction du Churn
 
-## 🎓 Contexte Académique et Professionnel
-Ce projet a été réalisé dans le cadre du stage académique de Licence 3 en Mathématiques, Statistique et Informatique de l'**Université de Kinshasa**, effectué au mois de **juillet 2026** chez **Vodacom Congo SA** au sein du département Technology, services de Big Data.
+## 🎓 Contexte Académique
+Ce projet a été réalisé comme expériementation de ce qu'on appris en stage académique de Licence 3 en Mathématiques, Statistique et Informatique de l'**Université de Kinshasa**, effectué au mois de **juillet 2026** chez dans une entreprise de telco au sein du département Technology, services de Big Data et Analystics.
 
-- **Stagiaires :** Monsieur Joseph Kowa et Monsieur Hoben Kayudi
-- **Encadreurs :** Monsieur Fally Katako et Monsieur Gradi Kamingu
+- **Contributeurs :** Joseph Kowa, Hoben Kayudi et Gradi Kamingu Lubwele.
 
 ---
 
