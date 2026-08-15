@@ -46,3 +46,9 @@ Le modèle **XGBoost** présente les meilleures performances globales avec :
 
 ## 🚀 Utilisation
 Pour reproduire les résultats, il suffit d'exécuter les notebooks Jupyter présents dans ce dépôt. Les scripts incluent le chargement automatique des données depuis `Dataset_churn.csv`, l'application complète de la chaîne de traitement (nettoyage, prétraitement, équilibrage) et l'affichage comparatif final des performances des modèles, incluant les rapports de classification et les matrices de confusion.
+
+## 🌐 Déploiement Web (Streamlit)
+Une application interactive a été développée pour permettre de tester le modèle sans toucher au code. L'application supporte le chargement de fichiers CSV (batch prediction) ainsi que la saisie manuelle.
+
+**🌟 L'application est en ligne ! Vous pouvez y accéder directement via ce lien :**  
+👉 **[https://deploymentchurnanalysis.streamlit.app/](https://deploymentchurnanalysis.streamlit.app/)**
